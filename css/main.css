@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;
+    background: linear-gradient(to left, #fff, #000);
+}
+
+.btn {
+    font-size: 20px;
+    border-radius: 30px;
+    border: 5px double #00f;
+    padding: 10px 25px;
+    background-color: cyan;
+    color: #00f;
+}
